@@ -1,65 +1,36 @@
 {
   "users": [
     {
-      "name": "Katrina Olson",
-      "id": 11
+      "name": "Ms. Andres Powlowski",
+      "id": 2
     },
     {
-      "name": "Tammy Durgan",
-      "id": 14
+      "name": "Pat Dooley",
+      "id": 3
     }
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Hiking Trip",
-      "userId": 11
+      "userId": 2,
+      "title": "Electronic Frozen Shoes",
+      "id": 1
     },
     {
-      "userId": 11,
-      "title": "Intelligent Plastic Tuna",
+      "userId": 2,
+      "title": "Generic Frozen Pants",
       "id": 2
-    },
+    }
+  ],
+  "photos": [
     {
-      "userId": 11,
-      "title": "Licensed Granite Mouse",
-      "id": 3
-    },
-    {
-      "userId": 14,
-      "title": "Licensed Soft Bacon",
-      "id": 4
-    },
-    {
-      "userId": 14,
-      "title": "Small Soft Soap",
-      "id": 5
-    },
-    {
-      "userId": 14,
-      "title": "Elegant Cotton Gloves",
-      "id": 6
-    },
-    {
-      "userId": 11,
-      "title": "Gorgeous Wooden Shirt",
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62103",
       "id": 7
     },
     {
-      "userId": 11,
-      "title": "Tasty Rubber Hat",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56353",
       "id": 8
-    },
-    {
-      "userId": 11,
-      "title": "Modern Rubber Bacon",
-      "id": 9
-    },
-    {
-      "userId": 11,
-      "title": "Incredible Soft Cheese",
-      "id": 10
     }
-  ],
-  "photos": []
+  ]
 }
