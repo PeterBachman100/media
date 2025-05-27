@@ -5,26 +5,61 @@
       "id": 11
     },
     {
-      "name": "Ann Price",
-      "id": 12
-    },
-    {
       "name": "Tammy Durgan",
       "id": 14
-    },
-    {
-      "name": "Ann Torp",
-      "id": 15
-    },
-    {
-      "name": "Jessie Dicki",
-      "id": 18
-    },
-    {
-      "name": "Julie Witting",
-      "id": 21
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 11
+    },
+    {
+      "userId": 11,
+      "title": "Intelligent Plastic Tuna",
+      "id": 2
+    },
+    {
+      "userId": 11,
+      "title": "Licensed Granite Mouse",
+      "id": 3
+    },
+    {
+      "userId": 14,
+      "title": "Licensed Soft Bacon",
+      "id": 4
+    },
+    {
+      "userId": 14,
+      "title": "Small Soft Soap",
+      "id": 5
+    },
+    {
+      "userId": 14,
+      "title": "Elegant Cotton Gloves",
+      "id": 6
+    },
+    {
+      "userId": 11,
+      "title": "Gorgeous Wooden Shirt",
+      "id": 7
+    },
+    {
+      "userId": 11,
+      "title": "Tasty Rubber Hat",
+      "id": 8
+    },
+    {
+      "userId": 11,
+      "title": "Modern Rubber Bacon",
+      "id": 9
+    },
+    {
+      "userId": 11,
+      "title": "Incredible Soft Cheese",
+      "id": 10
+    }
+  ],
   "photos": []
 }
